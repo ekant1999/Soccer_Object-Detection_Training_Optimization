@@ -266,4 +266,3 @@ pip install ultralytics roboflow pycocotools pandas matplotlib seaborn albumenta
 - Lin, T.-Y., et al. (2014). Microsoft COCO: Common Objects in Context. https://cocodataset.org
 - Loshchilov, I., & Hutter, F. (2019). Decoupled Weight Decay Regularization (AdamW). ICLR 2019.
 - Football Players Detection Dataset, Roboflow Universe. https://universe.roboflow.com
-- Smart Football Object Detection Dataset, Roboflow Universe. https://universe.roboflow.com
