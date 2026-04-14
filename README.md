@@ -1,7 +1,7 @@
 # Training Optimization for 2D Object Detection
 ## Soccer/Football Player Detection using YOLOv8
 
----
+https://github.com/ekant1999/Soccer_Object-Detection_Training_Optimization/blob/main/Soccer_Object_Detection_Training_Optimization.ipynb
 
 ## 1. Objective
 
